@@ -1,0 +1,16 @@
+.footercontent {
+    padding: 50px 0px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #ff9bcb;
+    width: 100%;
+    color: #fff;
+}
+
+ 
+.footercontent span {
+    text-align: center;
+    display: inline-block;
+}
